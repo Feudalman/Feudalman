@@ -7,3 +7,5 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feudalman&layout=compact&theme=tokyonight) -->
 
 ![CSDN](https://stats.justsong.cn/api/csdn?id=qq_51574759&theme=dark)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Feudalman&custom_title=My%20Activity&theme=vue)
