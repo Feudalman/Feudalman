@@ -6,6 +6,6 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feudalman&layout=compact&theme=tokyonight) -->
 
-![CSDN](https://stats.justsong.cn/api/csdn?id=qq_51574759&theme=dark)
+![[CSDN](https://stats.justsong.cn/api/csdn?id=qq_51574759&theme=dark)](https://blog.csdn.net/qq_51574759?spm=1000.2115.3001.5343)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Feudalman&custom_title=My%20Activity&theme=vue)
