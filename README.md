@@ -4,7 +4,7 @@
 
 ![data](https://github-readme-stats.vercel.app/api?username=Feudalman&show_icons=true&theme=radical&count_private=true)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feudalman&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feudalman&layout=compact&theme=tokyonight)
 
 ![CSDN](https://stats.justsong.cn/api/csdn?id=qq_51574759&theme=dark)
 
