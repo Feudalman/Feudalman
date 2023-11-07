@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcom%20to%20My%20Page;This%20is%20Feudalman&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcom%20to%20My%20Page;This%20is%20ZiruiC&font=Roboto" />
 
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=github.com/Feudalman&right_color=red" /> -->
 
