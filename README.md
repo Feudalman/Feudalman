@@ -4,8 +4,10 @@
 
 ![data](https://github-readme-stats.vercel.app/api?username=Feudalman&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feudalman&layout=compact&theme=tokyonight)
-
-![CSDN](https://stats.justsong.cn/api/csdn?id=qq_51574759&theme=dark)
+<div style="display: flex; align-items: center;">
+  <img src="https://stats.justsong.cn/api/csdn?id=qq_51574759&theme=dark" alt="CSDN">
+  &nbsp; 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feudalman&layout=compact&theme=tokyonight" alt="Top Langs">
+</div>
 
 <!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Feudalman&custom_title=My%20Activity&theme=vue) -->
