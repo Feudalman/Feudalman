@@ -4,14 +4,21 @@
 - Swan 团队开发者
 - [CSDN 博主](https://blog.csdn.net/qq_51574759?spm=1000.2115.3001.5343)
 
+  <img src="https://stats.justsong.cn/api/csdn?id=qq_51574759&theme=dark" style="position: relative; right: '10px';" alt="CSDN" />
+
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=github.com/Feudalman&right_color=red" /> -->
 
-![data](https://github-readme-stats.vercel.app/api?username=Feudalman&show_icons=true&theme=radical&count_private=true)
+<hr/>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://stats.justsong.cn/api/csdn?id=qq_51574759&theme=dark" alt="CSDN">
-  &nbsp; 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feudalman&layout=compact&theme=tokyonight" alt="Top Langs">
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feudalman&layout=compact&theme=tokyonight" alt="Top Langs" />
+  &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Feudalman&show_icons=true&theme=radical&count_private=true" alt="github infos"/>
+  <!-- ![data](https://github-readme-stats.vercel.app/api?username=Feudalman&show_icons=true&theme=radical&count_private=true) -->
 </div>
+
+
+
+
 
 <!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Feudalman&custom_title=My%20Activity&theme=vue) -->
