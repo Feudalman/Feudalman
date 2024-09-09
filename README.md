@@ -2,8 +2,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcom%20to%20My%20Page;This%20is%20ZiruiC&font=Roboto" />
 
-- 西安电子科技大学通信工程大四本科毕业生
-- 西安电子科技大学电子工程学院在读研究生
+- 西安电子科技大学通信工程本科毕业生
+- 西安电子科技大学电子工程学院研究生
 - Swan 团队开发者
 - [CSDN 博主](https://blog.csdn.net/qq_51574759?spm=1000.2115.3001.5343)
 
