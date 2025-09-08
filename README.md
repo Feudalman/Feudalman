@@ -9,7 +9,7 @@
 - Swan 团队开发者
 - [CSDN 博主](https://blog.csdn.net/qq_51574759)
 
-长期维护项目 [SwanLab](https://github.com/SwanHubX/SwanLab)
+目前主要参与开发和维护： [SwanLab](https://github.com/SwanHubX/SwanLab)
 
 <img src="https://stats.justsong.cn/api/csdn?id=qq_51574759&theme=dark" style="padding: 100px;" alt="CSDN" />
 
