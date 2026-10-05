@@ -3,10 +3,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcom%20to%20My%20Page;This%20is%20ZiruiCai&font=Roboto" />
 
+- Swan 团队全栈开发工程师
 - 西安电子科技大学通信工程本科毕业生
 - 西安电子科技大学电子工程学院研究生
 - 情感机器（北京）科技有限公司开发者
-- Swan 团队全栈开发工程师
 - [CSDN 博主](https://blog.csdn.net/qq_51574759)
 
 目前主要参与开发和维护： [SwanLab](https://github.com/SwanHubX/SwanLab)
