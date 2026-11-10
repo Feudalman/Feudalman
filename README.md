@@ -13,7 +13,7 @@
 
 ### 个性化
 
-- **[dark-arui](https://github.com/Feudalman/dark-arui)** — 黑到位的 VS Code 主题。地址：[Marketplace](https://marketplace.visualstudio.com/items?itemName=Arui.dark-arui)
+- **[dark-arui](https://github.com/Feudalman/dark-arui)** — 足够黑的 VS Code 主题。地址：[Marketplace](https://marketplace.visualstudio.com/items?itemName=Arui.dark-arui)
 - **[fit-code](https://github.com/Feudalman/vscode-fit-code)** — 让编辑区宽度跟着内容走：窄文件居中，宽文件铺满，滚动条和 minimap 不动。地址：[官网](https://feudalman.github.io/vscode-fit-code/) / [Marketplace](https://marketplace.visualstudio.com/items?itemName=arui.fit-code)
 - **[pi-cursor-style](https://github.com/Feudalman/pi-cursor-style)** — 换掉 pi 输入框的光标：竖条、下划线、彩色方块或终端原生光标。地址：[官网](https://feudalman.github.io/pi-cursor-style/)
 
